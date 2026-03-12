@@ -1,9 +1,6 @@
-numpy
-pandas
-scikit-learn
-tensorflow
-torch
-gym
-flask
-requests
+fastapi
+uvicorn
+pydantic
+python-dotenv
 pytest
+httpx
