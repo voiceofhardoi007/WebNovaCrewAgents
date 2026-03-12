@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+gym
+flask
+requests
+pytest
